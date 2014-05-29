@@ -1,0 +1,16 @@
+AdsWizz.js by Leandro Hernandez, 2014
+============================================
+Adswizz.js provides technology needed to comunicate with to on-line radios and ad networks to best monetize their internet radio audience.
+
+
+Settings
+============================================
+The first three lines define the most important parameters.
+
+var SETTING_SERVER_URL 	= "YOUR-URL-SERVER"; 		// Ex: "http://kriteria.adswizz.com";
+var SETTING_AD_ZONE 	= "YOUR-AD-ZONE-ID";		// Ex: "1574"
+var SETTING_COMPANION 	= "YOUR-COMPANION-ID";		// Ex: "1575"
+
+
+If you want to see the operation of the library you must set: 
+var DEBUG_LOGS = true;
