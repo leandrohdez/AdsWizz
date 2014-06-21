@@ -9,18 +9,18 @@
 	// SET YOUR-URL-SERVER
 	var SETTING_SERVER_URL 	= "http://kriteria.adswizz.com";
 	// SET YOUR-AD-ZONE-ID
-	var SETTING_AD_ZONE 	= "1574";
+	var SETTING_AD_ZONE 	= "YOUR-AD-ZONE-ID";
 	// YOUR-COMPANION-ID
-	var SETTING_COMPANION 	= "1575";
+	var SETTING_COMPANION 	= "YOUR-COMPANION-ID";
 	
-	var TAG_IMPRESSION 		= "Impression";
+	var TAG_IMPRESSION 	= "Impression";
 	var TAG_CUSTOM_CLICK 	= "CustomClick";
 	var TAG_CLICK_THROUGH 	= "ClickThrough";
 	var TAG_CREATIVE_VIEW 	= "creativeView";
 	
 	var EVENT_START 		= "start";
 	var EVENT_FIRST_QUART 	= "firstQuartile";
-	var EVENT_MIDPOINT 		= "midpoint";
+	var EVENT_MIDPOINT 	= "midpoint";
 	var EVENT_THIRD_QUART 	= "thirdQuartile";
 	var EVENT_COMPLETE  	= "complete";
 	
